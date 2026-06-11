@@ -1,4 +1,4 @@
-This repository contains files with code developed for the Pinal Year Project entitled "Designing a a Signal Acquisition Platform for Monitoring of
+This repository contains files with code developed for the Final Year Project entitled "Designing a a Signal Acquisition Platform for Monitoring of
 Patients with Traumatic Brain Injury" as a part of the award of MEng Biomedical Engineering from Imperial College London. 
 
 File contents:
